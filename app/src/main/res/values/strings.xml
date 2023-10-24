@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Appstrology</string>
+    <string name="horoscope">Horoscope</string>
+    <string name="luck">Luck</string>
+    <string name="palmistry">Palmistry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
