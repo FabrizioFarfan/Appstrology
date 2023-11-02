@@ -7,6 +7,74 @@
     <string name="luck">Luck</string>
     <string name="palmistry">Palmistry</string>
 
+    <!-- Predictions -->
+    <string name="cups_ace">Emotion and pure love, a new beginning in love or relationships.</string>
+    <string name="cups_two">Union and partnership, whether in love or friendship.</string>
+    <string name="cups_three">Celebration, joy, and happy social gatherings.</string>
+    <string name="cups_four">Reflection, meditation, and an opportunity for introspection.</string>
+    <string name="cups_five">Loss, sadness, and disappointment, but with the opportunity to see what remains.</string>
+    <string name="cups_six">Nostalgia, memories, and the possibility of reconnecting with the past.</string>
+    <string name="cups_seven">Choices and dreams, sometimes indicating the need for focus and decision-making.</string>
+    <string name="cups_eight">Abandonment and the search for a more emotionally satisfying or spiritual path.</string>
+    <string name="cups_nine">The wish card, representing the fulfillment of desires and joy.</string>
+    <string name="cups_ten">Family happiness, harmony, and emotional well-being at home.</string>
+    <string name="cups_page">News or messages related to emotions and creativity.</string>
+    <string name="cups_knight">A messenger of love, romance, and sensitivity.</string>
+    <string name="cups_queen">Balanced emotions, intuition, and emotional support.</string>
+    <string name="cups_king">Emotional wisdom, compassion, and leadership in emotional matters.</string>
+
+
+    <string name="swords_ace">New ideas and mental clarity, a fresh start in thoughts and communication.</string>
+    <string name="swords_two">Conflict and decisions, often representing a need to make choices.</string>
+    <string name="swords_three">Heartache and sorrow, sometimes indicating emotional pain and grief.</string>
+    <string name="swords_four">Rest and recovery, a period of healing and introspection.</string>
+    <string name="swords_five">Loss and suffering, but with the opportunity to learn and grow from the experience.</string>
+    <string name="swords_six">Moving on and finding solutions, leaving behind difficulties.</string>
+    <string name="swords_seven">Challenges and adversity, often representing mental struggles and obstacles.</string>
+    <string name="swords_eight">Conflict resolution and clarity, regaining control of your thoughts and communication.</string>
+    <string name="swords_nine">Anxiety and worry, but the need to confront and address your fears.</string>
+    <string name="swords_ten">Overwhelming burden and crisis, a need to release and seek relief.</string>
+    <string name="swords_page">News or messages related to thoughts and communication.</string>
+    <string name="swords_knight">Action and determination in the face of challenges.</string>
+    <string name="swords_queen">Sharp intellect, mental strength, and a no-nonsense attitude.</string>
+    <string name="swords_king">Mental mastery, leadership in intellectual matters, and strategic thinking.</string>
+
+
+    <string name="pentacles_ace">Material opportunities and the start of a new financial or practical venture.</string>
+    <string name="pentacles_two">Balance and partnership in financial matters, sharing resources and responsibilities.</string>
+    <string name="pentacles_three">Initial success and the potential for growth in financial or material pursuits.</string>
+    <string name="pentacles_four">Stability and security, often related to home and finances.</string>
+    <string name="pentacles_five">Loss and financial hardship, but a chance to recover and rebuild.</string>
+    <string name="pentacles_six">Abundance and prosperity, reaping the rewards of hard work and effort.</string>
+    <string name="pentacles_seven">Assessment of progress and evaluating the path to financial or material success.</string>
+    <string name="pentacles_eight">Financial advancement and skillful management of resources.</string>
+    <string name="pentacles_nine">Attaining financial goals and material fulfillment.</string>
+    <string name="pentacles_ten">Wealth and material security, a time of enjoying the fruits of labor.</string>
+    <string name="pentacles_page">Messages or news related to practical matters and resources.</string>
+    <string name="pentacles_knight">A focused and determined approach to financial or practical goals.</string>
+    <string name="pentacles_queen">Nurturing and practicality, representing a responsible and caring approach to material matters.</string>
+    <string name="pentacles_king">Financial mastery and responsible leadership in practical and material affairs.</string>
+
+    <string name="wands_ace">Inspiration and new opportunities, a burst of creative energy.</string>
+    <string name="wands_two">Partnerships and collaboration, working together to achieve a shared goal.</string>
+    <string name="wands_three">Progress and growth, often related to creative or career pursuits.</string>
+    <string name="wands_four">Rest and contemplation, taking a break before moving forward.</string>
+    <string name="wands_five">Challenges and obstacles, but a chance to overcome them through determination.</string>
+    <string name="wands_six">Victory and success, celebrating achievements and milestones.</string>
+    <string name="wands_seven">Taking action and pursuing goals with enthusiasm and determination.</string>
+    <string name="wands_eight">Movement and change, often involving travel or a change of direction.</string>
+    <string name="wands_nine">Achieving goals and reaping the rewards of hard work and effort.</string>
+    <string name="wands_ten">Completion and fulfillment, a sense of accomplishment and reaching the end of a journey.</string>
+    <string name="wands_page">News or messages related to creative projects, career, or personal goals.</string>
+    <string name="wands_knight">A passionate and enthusiastic approach to challenges and goals.</string>
+    <string name="wands_queen">A supportive and nurturing presence in creative or career matters.</string>
+    <string name="wands_king">Inspiring leadership and assertive action in creative and career pursuits.</string>
+
+
+
+
+
+
     <!-- Horoscope -->
     <string name="aries">Aries</string>
     <string name="taurus">Taurus</string>
