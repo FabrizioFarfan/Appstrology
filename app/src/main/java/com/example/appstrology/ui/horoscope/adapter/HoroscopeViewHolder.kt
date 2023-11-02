@@ -21,7 +21,7 @@ class HoroscopeViewHolder(private val binding: HoroscopeItemBinding) : RecyclerV
 
     private fun startAnimation( view: View,clickListener: ()-> Unit){
         view.animate().apply {
-            duration = 432L
+            duration = 333L
             interpolator = AccelerateInterpolator()
             rotationYBy(360f)
             withEndAction(clickListener)

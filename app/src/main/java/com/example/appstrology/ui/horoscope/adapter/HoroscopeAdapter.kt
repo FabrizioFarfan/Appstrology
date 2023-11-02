@@ -3,11 +3,8 @@ package com.example.appstrology.ui.horoscope.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import androidx.recyclerview.widget.RecyclerView.ViewHolder
-import com.example.appstrology.databinding.FragmentHoroscopeBinding
 import com.example.appstrology.databinding.HoroscopeItemBinding
 import com.example.appstrology.domain.model.HoroscopeInfo
-import kotlinx.coroutines.flow.MutableStateFlow
 
 class HoroscopeAdapter(private var horoscopeList : List<HoroscopeInfo> = emptyList(),
                        private val clickListener : (HoroscopeInfo) -> Unit

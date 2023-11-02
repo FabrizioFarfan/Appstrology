@@ -9,7 +9,11 @@
         android:id="@+id/horoscopeFragment"
         android:name="com.example.appstrology.ui.horoscope.HoroscopeFragment"
         android:label="fragment_horoscope"
-        tools:layout="@layout/fragment_horoscope" />
+        tools:layout="@layout/fragment_horoscope" >
+        <action
+            android:id="@+id/action_horoscopeFragment_to_horoscopeDetailActivity"
+            app:destination="@id/horoscopeDetailActivity" />
+    </fragment>
     <fragment
         android:id="@+id/luckFragment"
         android:name="com.example.appstrology.ui.luck.LuckFragment"
@@ -21,8 +25,12 @@
         android:label="fragment_palmistry"
         tools:layout="@layout/fragment_palmistry" />
     <activity
-        android:id="@+id/mainActivity"
-        android:name="com.example.appstrology.ui.home.MainActivity"
-        android:label="activity_main"
-        tools:layout="@layout/activity_main" />
+        android:id="@+id/horoscopeDetailActivity"
+        android:name="com.example.appstrology.ui.detail.HoroscopeDetailActivity"
+        android:label="activity_horoscope_detail"
+        tools:layout="@layout/activity_horoscope_detail" >
+        <argument
+            android:name="type"
+            app:argType="com.example.appstrology.domain.model.HoroscopeModel" />
+    </activity>
 </navigation>
