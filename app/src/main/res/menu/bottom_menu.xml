@@ -12,7 +12,7 @@
         />
     <item
         android:id="@+id/palmistryFragment"
-        android:icon="@drawable/palmistry"
+        android:icon="@drawable/palmestry"
         android:title="@string/palmistry"
         />
 
