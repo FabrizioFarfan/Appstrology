@@ -17,7 +17,7 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner = "com.example.appstrology.CustomTestRunner"
     }
 
     buildTypes {
@@ -41,6 +41,7 @@ android {
         viewBinding = true
     }
 }
+
 
 dependencies {
     //Retrofit
@@ -72,6 +73,15 @@ dependencies {
     implementation("com.google.android.material:material:1.10.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
+    //UITesting
+
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    //Espresso es una libreria potente para hacer ui test
+
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    androidTestImplementation("androidx.test.espresso:espresso-contrib:3.5.1")
+    androidTestImplementation("com.google.dagger:hilt-android-testing:2.48")
+    androidTestImplementation("androidx.test.espresso:espresso-intents:3.5.1")
+    androidTestImplementation ("androidx.fragment:fragment-testing:1.6.2")
+    kaptAndroidTest("com.google.dagger:hilt-android-compiler:2.48")
 }
