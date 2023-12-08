@@ -1,5 +1,5 @@
 # Appstrolosgy
-This project is an Android application that serves as a contact list, enabling users to add, edit, delete, and view details of their contacts. The app follows the MVVM (Model-View-ViewModel) architecture pattern and utilizes Room for local database management with FLOW 
+EVERY DAY A NEW HOROSCOPE!
 
 Technologies and Libraries:
 
